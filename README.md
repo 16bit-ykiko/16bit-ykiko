@@ -1,4 +1,4 @@
-In my spare time I build C++ developer tools at [clice-io](https://github.com/clice-io):
+Hi, I'm ykiko. I like C++, compilers, and building tools that make programming in C++ nicer. In my spare time I work on these at [clice-io](https://github.com/clice-io):
 
 - [clice](https://github.com/clice-io/clice): a C++ language server for modern C++, focused on high performance and deep code intelligence.
 - [xclang](https://github.com/clice-io/xclang): cross-compiling with clang. One PGO+ThinLTO toolchain, six targets' sysroots and static runtimes in every archive, programs that depend only on the OS. Ships as a CMake package, a Bazel module and a conda package.
